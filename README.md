@@ -1,3 +1,5 @@
+Just edited qb-clothing resource, with fixed almost everything and even purple hair glitches, head glitches. With custom UI, have fun.
+
 ## **Features (All same as default qb-clothing)**
 
 * Configurable Ped Selection
